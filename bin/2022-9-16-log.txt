@@ -1,0 +1,10 @@
+11:59:48 =>[error] first log message!
+11:59:48 =>[error] /home/chenfei/Code/MPRPC/example/callee/friendservice.cc:main:53
+11:59:48 =>[info] service_name:FriendServiceRpc
+11:59:48 =>[info] method_name:GetFriendList
+11:59:48 =>[info] RpcProvider start service at ip:127.0.0.1 port:8888
+12:19:36 =>[error] first log message!
+12:19:36 =>[error] /home/chenfei/Code/MPRPC/example/callee/friendservice.cc:main:53
+12:19:36 =>[info] service_name:FriendServiceRpc
+12:19:36 =>[info] method_name:GetFriendList
+12:19:36 =>[info] RpcProvider start service at ip:127.0.0.1 port:8888
